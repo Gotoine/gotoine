@@ -5,14 +5,15 @@
 ## About Me
 
 - Studying at Pierre Forest
-- Currently learning : **Python
+- Currently learning : **Python **
 - Goal : job in cybersecurity /
-- Ask me about : Java code, cybersecurity, plugin Minecraft and all sort of projects
+- Ask me about : **Java code**, cybersecurity, **plugin Minecraft** and all sort of projects
 - How to reach me : Gotoine (Discord)
 
 ## My Teck Stack
 
-- Java
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## My Projects
 - Money Dokimí (Bank simulation | Python | Tkinter and JSON file)
