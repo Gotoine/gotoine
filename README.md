@@ -1,4 +1,21 @@
-## Hi there 👋
+## Heyyy,
+
+> Studient · Always learning · passionate about cybersecurity
+
+## About Me
+
+- Studying at Pierre Forest
+- Currently learning : **Python
+- Goal : job in cybersecurity /
+- Ask me about : Java code, cybersecurity, plugin Minecraft and all sort of projects
+- How to reach me : Gotoine (Discord)
+
+## My Teck Stack
+
+- Java
+
+## My Projects
+- Money Dokimí (Bank simulation | Python | Tkinter and JSON file)
 
 <!--
 **Gotoine/gotoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
