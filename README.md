@@ -5,7 +5,7 @@
 ## About Me
 
 - Studying at Pierre Forest
-- Currently learning : **Python **
+- Currently learning : **Python**
 - Goal : job in cybersecurity /
 - Ask me about : **Java code**, cybersecurity, **plugin Minecraft** and all sort of projects
 - How to reach me : Gotoine (Discord)
